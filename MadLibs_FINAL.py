@@ -90,7 +90,7 @@ def plumbus(): # Script based on Plumbus scene from Rick and Morty
 # create a flag variable to determine if the program should keep Running
 def main():
     while(True):
-        print_slow("Alright, lets go!\n")
+        print_slow("Alright, lets go!")
         sleep(1)
         print ""
         plumbus()
